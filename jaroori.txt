@@ -1,0 +1,5 @@
+Scripts
+    -> start --> for development
+    -> build --> for build after completion
+    -> test --> to test application
+    -> eject
